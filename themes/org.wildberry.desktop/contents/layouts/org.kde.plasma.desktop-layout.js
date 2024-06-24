@@ -4,6 +4,7 @@ panelbottom.hiding = "none"
 panelbottom.location = "bottom"
 panelbottom.height = 44
 panelbottom.offset = 0
+panelbottom.floating = false
 
 /**** conociendo la resolucion de pantalla ****/
 const width = screenGeometry(panelbottom.screen).width
