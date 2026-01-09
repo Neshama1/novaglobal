@@ -11,7 +11,7 @@ const width = screenGeometry(panelbottom.screen).width
 /**** widgets ****/
 panelbottom.addWidget("org.kde.plasma.kickoff")
 panelbottom.addWidget("org.kde.plasma.pager")
-panelbottom_taskmanager = panelbottom.addWidget("org.kde.plasma.taskmanager")
+panelbottom_taskmanager = panelbottom.addWidget("org.kde.plasma.icontasks")
 panelbottom.addWidget("swap-color")
 panelbottom.addWidget("org.kde.plasma.systemtray")
 panelbottom.addWidget("org.kde.plasma.digitalclock")

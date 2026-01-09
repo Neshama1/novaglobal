@@ -3,15 +3,15 @@
     "KPlugin": {
         "Authors": [
             {
-                "Email": "hopeandtruth6517@gmail.com",
-                "Name": "Mint"
+				"Email": "novaflowos@gmail.com",
+				"Name": "Flozee"
             }
         ],
         "Category": "",
-        "Description": "Mint by Nova Flow OS",
-        "Id": "org.mint.desktop",
+		"Description": "Flozee by Nova Flow OS",
+		"Id": "org.flozee.desktop",
         "License": "GPLv2+",
-        "Name": "Mint",
+		"Name": "Flozee",
         "ServiceTypes": [
             "Plasma/LookAndFeel"
         ],
